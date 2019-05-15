@@ -1,0 +1,3 @@
+#spring.profiles.active: dev
+spring.application.name: service-order
+oauth2.server.url: http://localhost:8899/oauth/check_token
